@@ -1,0 +1,361 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1990,14261898.067076184,16808558.135008514,12039976.968022173
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1990,37565835.442534395,43070633.64039919,32482857.791884035
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1992,27232700.27481529,31100040.97784196,23877483.38767658
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1990,18277398.95547246,21342153.608632173,15629422.294384286
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1990,25421957.812595185,29030368.930861857,22176498.446333185
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1990,40451656.790555365,46943141.44897971,34634142.49926415
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1991,18759635.53936969,21900757.273368675,16068419.79994692
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1990,36214298.46964603,40432695.835561365,32151991.45645728
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1991,26311898.56498661,30080491.835836962,23007955.811792314
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1991,43169548.29443538,50085829.316653825,36961368.17701037
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1991,36339307.40066961,40560645.943660215,32257100.956735544
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1991,14626311.021584133,17260301.8182298,12398934.838149387
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1992,45739585.81199234,52995550.73906838,39197729.952991955
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1991,38978286.5199455,44534975.38126487,33765137.08979549
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1992,36465740.64927724,40666402.870057836,32360492.008392565
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1992,19236240.15001925,22459549.99865613,16498185.262024887
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1992,15028247.06647193,17707601.699401516,12759710.380934032
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1992,40166986.08125217,45774094.98366775,34850654.74756141
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1994,20309673.355334602,23688242.124864798,17429532.614241123
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1994,50039598.3409425,58177018.790483326,42945682.06791815
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1994,36706990.86775356,40909298.80597518,32648500.407240845
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1994,15847867.611806614,18662019.975652035,13475127.421834841
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1993,19737941.26462577,23043741.839258943,16923799.199425437
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1994,29086341.650951087,33231826.278945137,25617735.895401645
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1994,41862793.99900756,47427457.462750554,36580913.85288958
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1993,28162414.13200165,32157592.36843919,24763788.87885683
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1993,48066072.76838329,55701265.501965694,41167992.825003706
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1993,36583331.634269565,40798512.54458793,32490880.124856193
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1993,15439976.304508088,18188762.76817153,13130883.96852594
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1995,36854354.3220345,40981114.19462852,32831944.849327963
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1995,16278776.277897362,19169283.25218838,13815879.412396582
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1993,41127986.1209441,46705373.35346944,35815214.27332882
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1995,42362458.7847517,47983978.7742683,37193306.84264328
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1996,21660395.407059714,25247389.806284543,18602381.832499303
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1995,20930367.462564304,24406612.14816153,17949869.020835053
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1996,31082454.989632174,35544099.61857313,27367879.50165056
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1995,29989038.666148122,34301420.31603204,26365833.49106884
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1995,51535970.50008009,60078891.37529725,44270217.73776639
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1996,52577408.938424684,61144460.40670454,45188002.24120381
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1996,37081448.33520385,41266120.1616212,33067870.09519316
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1996,16726419.7447776,19638931.04133586,14262952.55294192
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1997,32460542.724853367,37072148.912631355,28609931.221575707
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1996,42431064.51946513,48009560.50097488,37327115.93261233
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1998,41469639.666936025,46770980.133758456,36622434.55704512
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1997,22502502.150342062,26211652.235591892,19335067.885483924
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1998,23382128.264142778,27223565.164967343,20101193.433893263
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1997,53366254.78911235,62077519.23660261,45931595.51716016
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1998,54063253.86759102,62878037.31771669,46562581.59444262
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1998,33925616.99242181,38680511.72532231,29985028.36848062
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1998,37742531.16150091,42033901.52610786,33622914.063484855
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1997,37395405.272729985,41633520.362393156,33338509.292245712
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1998,17606148.908029728,20489999.484079532,15181146.365166124
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1997,17170296.485862426,20078901.402148377,14726640.03307715
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1997,42040061.8883292,47501632.39162372,37034014.57509122
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1999,54858940.64770773,63719613.49738045,47277106.8599228
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,1999,38069937.55350157,42343835.05811081,33948482.41083212
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1999,18050330.030738868,20904862.505658224,15615667.783390332
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1999,41009171.01820053,46190095.55265899,36343910.26986376
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,1999,24240006.961606756,28203757.430744298,20889608.12630561
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1999,35265511.56056743,40096931.35067926,31185980.413766872
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2001,25673148.74709906,29806632.07400594,22142790.41785494
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2000,38323921.2760116,42613385.36352858,34208185.81382229
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2000,24996974.054266367,29031019.25064287,21555656.505626086
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2001,36951408.79088224,41960160.87931218,32762178.50477326
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2000,36249384.70836956,41165717.02859753,32060765.709638245
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2000,18532959.315661203,21422750.716193575,16063845.24685269
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2002,59269865.19606676,68877354.69628102,51048371.98784018
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2001,57460328.1036974,66787218.218385436,49516037.622862995
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2002,38496077.22961909,42824712.94110453,34408897.158306256
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2002,19644832.097417198,22692650.444821957,17023589.94303031
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2001,38460242.6188393,42760515.83812702,34362592.39315726
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2002,37600793.52249571,42611939.047837734,33360188.94663207
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2002,41912595.00654939,46953876.10810664,37243862.62345174
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2000,40962877.12295235,46097246.02227999,36365375.10471732
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2001,41356894.82628119,46440228.0367415,36735000.63473127
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2001,19066595.679590162,22027108.76051928,16529516.765548233
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2000,55949679.04629124,64949362.15966833,48249329.20549386
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2003,42520415.8219486,47576140.73894561,37788745.78257243
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2003,27015371.315959208,31355280.417594325,23285189.294540826
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2003,38217159.41292012,43314453.55806587,33933175.763436824
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2003,61209904.698744416,71135874.53098147,52696733.78209735
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2003,38470921.1443529,42844825.89478857,34346325.04124144
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2003,20241202.003754195,23361524.914437823,17534719.41475886
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2002,26344919.715796065,30593170.630704585,22701366.031386945
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2004,63093827.34490122,73257157.56821774,54308339.79412307
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2004,27695376.987269226,32171913.74040023,23894837.858934775
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2004,38437517.47956084,42883373.73982679,34341466.928194985
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2004,38822363.718722165,43946927.043742,34513974.33872449
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2004,20846066.458607398,24025316.138545085,18050294.827347748
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2004,43078663.71216812,48132917.0077363,38324062.60853349
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2005,28399903.66465206,32996811.57197593,24516309.750522364
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2005,64697560.22071115,75102086.02101694,55681762.68610842
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2005,39425606.09565311,44577443.8440925,35079925.41826301
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2005,38450399.14712046,42934758.45595894,34360101.919199325
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2005,21455862.57594447,24720615.421179812,18556456.13169063
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2005,43469554.787528716,48517195.42299955,38713850.38682116
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2006,29041904.34471147,33679300.89654786,25105333.181060705
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2006,64736237.029880464,74826115.45671621,55814842.45188779
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2006,39887998.6240306,45048767.736692026,35554996.62536016
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2006,38509075.6125147,42922445.24495539,34451882.94239926
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2006,22080090.16401483,25412378.86892351,19123392.36711547
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2006,43560680.51106441,48642170.924358934,38822070.997287676
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2007,40120192.62643287,45209759.2478548,35819501.25944659
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2007,22748430.835104764,26147021.970619567,19700937.802584883
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2007,38582567.37149614,43011342.871308714,34561680.805064954
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2007,29561431.710771773,34165936.93699696,25501783.01901704
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2007,62798701.42012125,72337550.82770374,54420712.707283996
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2007,43405809.067304336,48360016.109130524,38816208.83524817
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2008,30025237.633143265,34676899.736527905,25965500.725159556
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2009,30505881.77217081,35252961.51279336,26437675.304824363
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2008,23446814.725648757,26942592.775467474,20269241.749226853
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2009,40381216.106212735,45413602.68700628,36056372.540203415
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2008,43209685.064665355,48280851.375334635,38674488.34843324
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2008,60019719.52879739,68932695.47088401,52330464.82959065
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2008,40240696.73668721,45295228.51567284,35956630.75448822
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2010,57332277.79886763,65587845.5924455,50456667.86768501
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2009,57708129.98165603,66031576.31600586,50577633.37473077
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2008,38667859.50281087,43105884.78595208,34653815.04092555
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2010,38905858.91075784,43352044.612083,34902779.3427761
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2009,38772560.26959814,43247899.52400886,34763556.48513514
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2010,24763764.133871835,28465627.807470113,21412263.6484193
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2009,24123630.296172127,27723544.383291904,20851525.795635585
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2010,43512963.09439272,48562543.76670504,38986788.100285515
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2009,43181721.20617411,48223658.016167425,38654106.69819082
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2010,40669433.76722186,45621409.588445246,36364769.07620817
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2010,31081982.15629828,35983012.274895966,27008716.164735366
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2012,32362662.681677725,37543867.85560284,27981198.69771572
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2011,31722194.06958139,36752629.1381003,27467490.907735124
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2012,41075247.91104077,46103806.8486073,36722392.39652512
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2011,40959758.54966181,46007072.16838676,36604121.15392246
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2011,58495476.53647489,66649976.08063291,51391497.0516928
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2011,39027246.1058685,43486280.430651866,34952486.41800711
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2012,59767872.68698526,68207113.52045646,52417852.84932036
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2012,39117417.86497024,43665337.172253035,34943847.232477814
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2011,25477159.64188405,29360771.151894238,21943891.281902328
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2012,26294657.290036716,30452967.743117005,22571360.68294312
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2011,44290706.077018015,49373779.360929735,39587386.72118314
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2012,45361446.133469835,50592434.19821171,40462893.95480235
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2013,27144165.49554337,31552375.66359265,23215806.81140775
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2013,33046527.51487579,38396217.96977269,28408111.27274746
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2013,46560060.90904124,51990743.53272262,41507713.09297129
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2013,41123619.63996783,46131206.16329095,36732438.98698804
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2013,61109837.74742918,69667811.67452338,53473648.25120461
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2013,39199844.49824997,43859998.781528406,34942677.91114396
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2015,63835034.75076003,72886318.89097366,55704523.58938728
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2014,33826617.48249075,39400504.654768735,28933221.044470694
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2014,41216334.64346327,46214683.97024532,36745455.5073005
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2014,27956343.488112025,32643026.277660847,23827055.54125285
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2014,62479980.770416245,71288656.88402352,54632435.46615017
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2014,39300055.24112113,44081002.22996243,34974057.37300867
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2015,28696352.862463135,33645606.9055698,24382170.03750734
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2015,39435557.04378479,44267975.878986426,35031735.70153306
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2014,47704897.88004766,53410517.53602061,42390130.57371217
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2015,48585667.533935696,54528416.979828574,43186197.38793218
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2015,41461631.8543353,46617516.09827115,36916289.86561319
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2015,34762305.964567564,40533017.50448922,29660778.955334824
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2017,37037632.67203079,43090556.00132595,31805780.639108386
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2017,42223348.99061911,47453626.025090486,37593269.48914059
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2016,49146815.39171095,55188215.220597364,43678436.05523817
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2016,35866359.369784,41777178.56013445,30714648.515237395
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2016,41824856.50384481,46994251.35165786,37231552.7843708
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2016,65165446.395364165,74377722.35715018,56921170.92957061
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2017,66495518.535207324,75831409.59292628,58191756.24955969
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2016,39541208.51484695,44485445.84691844,35142212.02511312
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2017,39638946.80371153,44670639.784096755,35149021.65024127
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2016,29360192.024278097,34358462.51316499,25046137.740242694
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2017,30039883.777066614,35117849.56328915,25653544.32309928
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2017,49648817.50525569,55667870.980409846,44079099.56036893
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2018,50031646.36569555,56289014.86731324,44245502.62224979
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2018,30849528.71547872,36123552.89682692,26256235.82281955
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2018,39825776.196133375,45010299.94555834,35292177.78492109
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2018,67813453.06208055,77463053.68449938,59430221.820055366
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2019,39500526.25733674,46036360.862187654,33721028.69503353
+Incidence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2019,69119857.8989292,79069701.32159953,60063181.43794937
+Incidence,African Region,Both,All Ages,Major depressive disorder,Number,2018,38240977.903769225,44498615.34560135,32710162.152018365
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2019,43171368.4598602,48639700.000206776,38180765.118023545
+Incidence,European Region,Both,All Ages,Major depressive disorder,Number,2019,40081685.41508711,45467580.01147166,35278084.936033115
+Incidence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2019,31795199.329964478,37301008.12373543,26920323.010956652
+Incidence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2018,42680891.17735699,47899876.49397137,37864495.140635505
+Incidence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2019,50172329.248977676,56537804.682345055,44186564.53863599
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1990,17201783.385106422,19544311.044742562,15065727.073910013
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1992,24665075.704060327,27313190.39905371,22174593.80268647
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1991,26249986.84700746,29848312.533498544,22842393.69875759
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1992,10021483.094434274,11759920.834259886,8533221.51632183
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1991,24580953.033563226,27235223.103697248,22054399.671921097
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1990,12160951.529213367,14118736.58329066,10455431.697288623
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1992,27070830.6521546,30679334.47679669,23688395.099124618
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1990,24497727.535841264,27163244.594381966,21954885.410727173
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1990,9509741.215890499,11258537.834159214,8083163.17963586
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1991,12481104.334969334,14448503.336017163,10727550.90569988
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1990,25278969.824649047,28904211.693635147,21969830.33171047
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1991,9753063.07240699,11484685.388239224,8301435.027278613
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1991,28854307.923287146,33227261.42918605,24774134.891003445
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1990,27026817.708735157,31145116.92301642,23214623.279848218
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1991,17817963.406431966,20282165.151561618,15614952.561748367
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1992,12797393.64090498,14830991.10789454,10993729.878189415
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1992,18449036.89013751,20947652.852314495,16225955.74093111
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1992,30581439.817214042,35272918.23245263,26276908.951622855
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1993,13130419.861738209,15222189.098781439,11295402.954647267
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1993,27736393.8568949,31352981.14642421,24336224.911649387
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1993,19080465.634775423,21656845.006852876,16815108.34661418
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1994,13510197.741276301,15683879.959482752,11621803.922528902
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1993,32143680.807660095,37092073.67016029,27674846.584328823
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1993,24743158.72024514,27396105.683597185,22230702.97801226
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1993,10296663.150079498,12065604.861490691,8788286.431101967
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1994,10569357.7515888,12353474.02344891,9021782.563222941
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1994,19703059.88566202,22351951.805332255,17376797.48591017
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1994,24825701.838323973,27480434.09809153,22289617.98474744
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1995,10857673.033959331,12662002.101891913,9267833.297262594
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1995,13922746.559610652,16159440.757582312,11994970.614502383
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1996,14408614.522554312,16717711.127913436,12419555.780258577
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1994,33467596.8173864,38571937.474957444,28874495.18616931
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1994,28246088.262711693,31894294.413391627,24844491.184340563
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1995,24925062.18080744,27576576.51300384,22438702.984417338
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1995,28592536.64159685,32207867.768148486,25195246.522583593
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1995,20306767.952046447,23040600.354015343,17920983.802361995
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1996,25080176.14658678,27760035.317398522,22599438.45389822
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1995,34470055.91459056,39774403.70635644,29781422.301969625
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1996,11157067.323244058,12988584.88852315,9573329.293214452
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1996,21036888.080766466,23816956.58720016,18598546.546745315
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1996,28642672.179510094,32278736.52440834,25352088.66305472
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1996,35165375.81220291,40535945.54177825,30377003.56364642
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1998,25534867.26582984,28272689.109657586,22984033.424558606
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1997,14969607.212723922,17322275.45509644,12908243.691571124
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1998,11744508.315976067,13551917.724266173,10160019.460632896
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1997,25295940.727994595,27995537.96667168,22782766.31675502
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1997,11453451.697475938,13279747.123845646,9865457.36753544
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1998,27989644.466260154,31353750.94789518,24831663.078066994
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1997,35688776.812613145,41177663.96860183,30837035.270820107
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1998,15555913.936582448,17971331.945745517,13447941.37859005
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1997,28378119.179983802,31826548.425910126,25136548.772193242
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1997,21960204.704832178,24858259.36874967,19471384.9168975
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,1999,16127856.808940899,18622722.48584162,13968652.20726769
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1998,22944093.00054456,25923889.450187325,20395690.462520707
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2000,16632367.281339223,19202901.137958556,14411102.053910034
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,1999,23845891.6483649,26941867.95357216,21231339.46844322
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1999,36676764.7209687,42125449.704212435,31794437.563568026
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,1998,36149465.92191446,41628594.97391177,31250404.844922516
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2000,37403672.61446716,42950403.02214891,32421268.929274794
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2000,24510967.79163176,27685356.8855036,21829027.422999308
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,1999,27674034.19657949,30943983.226166807,24626496.12843933
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2000,25935808.72225502,28713816.209609088,23309200.728746295
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,1999,25760708.67961098,28515833.214335285,23170849.475344367
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2000,12366322.347672207,14227400.127508173,10753020.364220776
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2000,27637367.848617345,30773268.017826263,24642349.043129478
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,1999,12041865.24725661,13867856.114659369,10441618.820856018
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2002,17531059.43611711,20236168.583767366,15161150.213703506
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2002,25431409.507014085,28660498.356225654,22664320.269860674
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2001,17083069.742420413,19721982.488825932,14789927.964171007
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2002,39625774.51207369,45579174.98693438,34326617.22800694
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2001,24988440.157094743,28179660.298634663,22258404.18455399
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2001,38413892.08494606,44141789.84789617,33265218.83043079
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2002,26059146.870798454,28866817.54308208,23433196.533101555
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2001,26030889.184969794,28829430.49517309,23400847.570363555
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2002,13116387.72996086,15048658.621667355,11395329.522784516
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2002,28272611.07889136,31417548.064494703,25261093.042043433
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2001,12726113.882902186,14628493.819572942,11055320.726075666
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2001,27898882.525830466,31009410.430348158,24905086.45067974
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2003,26047038.169896994,28878317.682464354,23423348.485995784
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2003,40926628.14873345,47108675.303656444,35464635.56545732
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2003,13519494.559061809,15523886.82151814,11766047.77905384
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2003,28685701.409559958,31878289.220117867,25671268.919934478
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2004,13928895.990649587,15979708.718703095,12118958.995552745
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2004,29069032.62211606,32321991.61049553,26046462.726865668
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2003,17978288.659973487,20747491.373747993,15539567.084040837
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2004,18431914.937009353,21265342.130532898,15940176.498029822
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2003,25853424.080310974,29082944.95195799,23062836.840676166
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2004,26029721.019884583,28883730.27301756,23415264.072686393
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2004,26269384.762173776,29528572.57430863,23439245.76096699
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2005,18901939.749290187,21787642.8332083,16356135.638848858
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2004,42191278.00818781,48516535.60616923,36571924.0797979
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2005,26685602.187379986,29989443.769069113,23807847.346788604
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2005,43268809.00821922,49738225.77745829,37514670.10910714
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2005,26043550.55214054,28915507.558392614,23393128.473280333
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2005,14342204.114698298,16433561.713445755,12475593.478857884
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2005,29341473.231142763,32580971.830961123,26326704.358249247
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2007,19675101.723061755,22681099.63486219,17056896.259927712
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2008,19982807.021354064,23049134.505697735,17304928.85046773
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2006,19329791.47846986,22273134.232375074,16723397.1810651
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2007,26146724.00503114,28974675.081261225,23527822.91382428
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2006,26089339.40098664,28928955.02818211,23446553.155327044
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2006,27007059.44814907,30332562.670330115,24110203.702377647
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2006,43301599.55620067,49723427.80945229,37688091.50355295
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2007,27171823.42566689,30447811.48474378,24344081.35275624
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2007,15219800.829158673,17429097.104138188,13225237.055115867
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2006,14765900.80168166,16907938.591014605,12837755.41195867
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2007,42015956.91025952,48137217.79390104,36777811.61532366
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2007,29308219.58882611,32431788.523400728,26304006.219816178
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2006,29409877.2455466,32564030.47379782,26397549.984787818
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2009,26291270.75476741,29094883.395144846,23710760.290429085
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2008,26212668.254850898,29028031.36827662,23621411.116408817
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2008,27260717.07400234,30501385.538780987,24492558.101524353
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2009,16154814.615082914,18525068.533566855,14019250.497956645
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2008,15694461.58888745,17972679.59813174,13629757.209453687
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2008,40168323.124768116,45885391.98531942,35297687.442487
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2009,29157222.825583998,32284397.661690854,26249448.257597517
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2009,38633113.14516078,43956604.70550666,34125161.25629763
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2008,29176014.614522476,32276473.611825667,26247302.49197221
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2009,20301798.671182998,23417913.113944188,17620651.668524757
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2009,27363463.752744704,30613288.179055948,24647820.88720483
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2010,29383091.03479715,32586389.527860317,26487452.998742998
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2010,16589992.68058207,19016880.34962566,14404834.609620705
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2010,20684930.069673028,23878600.612766612,17978280.739018258
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2011,21111657.656463873,24371627.167636886,18301629.908764772
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2010,27566570.075320844,30793505.367921688,24854397.194546323
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2010,38392514.278558,43534878.36056023,33986781.100107096
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2011,27771357.59900042,31019194.913640905,25036832.053544432
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2011,26474818.010679152,29290626.647596676,23831952.970325004
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2010,26388160.952304974,29210235.859220475,23796103.82023697
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2011,39182856.59014795,44460105.307089195,34691041.28290332
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2011,17075282.778974965,19616951.459290612,14789273.946962643
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2011,29912956.301194392,33230639.26785358,26905325.57024216
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2012,21538805.762164395,24937990.552828025,18624994.441447336
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2013,21995172.53149217,25466999.2507822,18987106.26065819
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2012,27856520.031388134,31069531.41477075,25062954.027330168
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2012,40047203.70957414,45486646.923342,35378846.18795501
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2012,26538145.055912074,29409258.772530135,23850090.98068897
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2012,17631928.110989556,20345351.562246196,15216575.992873462
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2012,30639732.05750864,34080784.57594093,27501506.286582958
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2013,26595176.27713885,29544587.71682466,23853889.03539107
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2013,18210328.646044344,21106473.179455504,15651978.20370884
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2013,31452906.281077787,35103316.54954151,28189285.23986897
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2013,27894946.227904942,31073210.2855117,25053829.81674199
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2013,40958841.20394493,46532988.9063051,36154701.794522576
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2015,26758907.29532501,29905524.521372776,23874633.09970222
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2015,19264473.68003276,22496518.95118334,16461418.870598678
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2014,26664402.843145106,29713560.587308537,23855358.774043478
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2014,22515932.01747965,26084675.67373875,19381144.113463633
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2015,32829391.50734723,36877627.91272187,29293245.922567796
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2015,23140467.864396773,26789733.14975232,19863680.978224628
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2014,18762713.228271093,21873566.663222656,16069201.923889155
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2014,32230381.562337138,36079963.77453643,28829866.758264758
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2014,27962543.183751047,31172397.9741242,25043494.256348662
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2014,41889948.14812701,47588228.90489182,36889921.87736338
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2016,23876728.901887376,27666737.621618904,20483668.09713463
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2016,19713273.249186292,23023783.257838555,16846764.716381915
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2016,33211666.402448617,37260269.18913689,29655667.58387051
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2016,26835391.212894365,30024951.446506135,23948825.56171312
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2015,28132421.04173793,31426294.775974426,25165789.724779665
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2015,42811469.82379225,48675303.05915178,37555302.29355237
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2016,28379987.92685929,31675615.9525422,25414866.48153638
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2016,43717051.252036914,49589104.06132671,38322999.055538334
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2018,25459743.456600517,29535467.73065802,21859501.48379962
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2017,44623265.59485818,50467360.55085869,39203465.11583871
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2017,24657416.61699485,28598635.995544314,21175622.43981398
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2017,28650148.615352537,31974429.216724392,25674297.92776156
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2018,28962552.056633897,32318193.416082215,25826772.970255863
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2018,45525190.64249164,51435622.01149421,39965097.62463731
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2018,27031298.512550194,30397489.80142824,24125196.759621955
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2017,26905030.77344136,30198524.10947497,24039296.471647754
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2017,20172550.91234598,23530019.884422567,17188881.027071577
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2018,20718453.3080487,24293891.706000973,17662467.075978477
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2017,33554905.8334709,37677169.74983663,29945789.145499125
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2018,33818512.401290804,37994915.88423014,30144384.336273335
+Prevalence,African Region,Both,All Ages,Major depressive disorder,Number,2019,26299953.71197687,30571274.617931306,22502444.507192686
+Prevalence,European Region,Both,All Ages,Major depressive disorder,Number,2019,27202116.82502284,30709504.662273057,24134094.79371555
+Prevalence,Region of the Americas,Both,All Ages,Major depressive disorder,Number,2019,29299898.482920185,32826168.99917967,25985024.05894442
+Prevalence,Eastern Mediterranean Region,Both,All Ages,Major depressive disorder,Number,2019,21355231.928288992,25086444.297273125,18099487.905431367
+Prevalence,Western Pacific Region,Both,All Ages,Major depressive disorder,Number,2019,33918698.9872134,38267610.540724955,30094400.54619789
+Prevalence,South-East Asia Region,Both,All Ages,Major depressive disorder,Number,2019,46424132.29357457,52771233.570086055,40607872.397270866
